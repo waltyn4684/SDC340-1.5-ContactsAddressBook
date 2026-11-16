@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wallace Tyner - Contacts Address Book</string>
+    <string name="category_title">A Contacts</string>
+
+    <string name="avery_name">Avery Brooks</string>
+    <string name="avery_button">View Avery Details</string>
+    <string name="avery_photo_description">Sample portrait for Avery Brooks</string>
+    <string name="avery_address">101 Example Lane\nChesapeake, VA 23320</string>
+    <string name="avery_phone">(757) 555-0101</string>
+    <string name="avery_email">avery.brooks@example.com</string>
+
+    <string name="andre_name">Andre Carter</string>
+    <string name="andre_button">View Andre Details</string>
+    <string name="andre_photo_description">Sample portrait for Andre Carter</string>
+    <string name="andre_address">202 Sample Drive\nChesapeake, VA 23320</string>
+    <string name="andre_phone">(757) 555-0102</string>
+    <string name="andre_email">andre.carter@example.com</string>
+
+    <string name="address_label">Address</string>
+    <string name="phone_label">Phone</string>
+    <string name="email_label">Email</string>
+</resources>
